@@ -25,5 +25,5 @@ I have obtained my PhD degree from [Insight Centre for Data Analytics](https://w
 
 I have obtained my MSc. degree from Middle East Technical University, under the supervision of [Prof. Ismail Hakki Toroslu](http://user.ceng.metu.edu.tr/~toroslu/). During my MSc. study, my research was about “Sentiment Analysis of Turkish Political News”. Unlike short texts like product reviews, the problem of sentiment analysis of political columns is a more challenging task. I have analyzed the effect of using different set of features by using various supervised machine learning techniques on the task of Sentiment Analysis of Political News.
 
-You can have a look at my recent puclications from the [publications page](/publications/).
+You can have a look at my recent publications from the [publications page](/publications/).
 
