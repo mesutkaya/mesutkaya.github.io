@@ -6,19 +6,24 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mk.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tirman Park K1 Blok No:17</p>
+    <p>Belde Mah.</p>
+    <p>Batman, Turkey</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am Mesut Kaya. You have reached my personal website. I am currently an independent researcher looking for job opportunuties. You can contact me if you like. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a Postdoc/Research Engineer at TU Delft, Delft Data Science, Web Information Systems, [Epsilon group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/web-information-systems/projects/epsilon-lab/). I have been part of mainly two different projects: (i) Fairness-AwareGroup Recommendations; (ii) Conversational Health in Social Media Platforms. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have obtained my PhD degree from [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Cork, Ireland, under the supervision of [Dr. Derek Bridge](http://www.cs.ucc.ie/~dgb/). During my PhD study, my research focused on the design, analysis, implementation, and experimental evaluation of diversity-aware personalized recommender algorithms. An assumption of very early work on recommender systems was that the goal of such systems was to accurately predict the users’ opinions of candidate items, and to use these predictions to select items to recommend. It was soon recognized that it is not enough for predictions to be accurate or recommendations to be merely relevant. In many domains, recommendations must not only be accurate or relevant,but they should also be novel to the user or serendipitous, and a set of recommendations must be diverse. In my PhD thesis, I focused on diversity.
+
+I have obtained my MSc. degree from Middle East Technical University, under the supervision of [Prof. Ismail Hakki Toroslu](http://user.ceng.metu.edu.tr/~toroslu/). During my MSc. study, my research was about “Sentiment Analysis of Turkish Political News”. Unlike short texts like product reviews, the problem of sentiment analysis of political columns is a more challenging task. I have analyzed the effect of using different set of features by using various supervised machine learning techniques on the task of Sentiment Analysis of Political News.
+
+You can have a look at my recent puclications from the [publications page](/publications/).
+
