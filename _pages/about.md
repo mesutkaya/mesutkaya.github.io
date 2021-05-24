@@ -8,9 +8,9 @@ profile:
   align: right
   image: mk.jpeg
   address: >
-    <p>Tirman Park K1 Blok No:17</p>
-    <p>Belde Mah.</p>
-    <p>Batman, Turkey</p>
+    <p>Aalborg University Copenhagen</p>
+    <p>Copenhagen</p>
+    <p>Denmark</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
