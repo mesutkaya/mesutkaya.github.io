@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Mesut Kaya. You have reached my personal website. I am currently an independent researcher looking for job opportunuties. You can contact me if you like. 
+Welcome! I am Mesut Kaya. You have reached my personal website. I am Postdoctoral Researcher at Aalborg University Copenhagen. You can contact me if you like. 
 
 Previously, I was a Postdoc/Research Engineer at TU Delft, Delft Data Science, Web Information Systems, [Epsilon group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/web-information-systems/projects/epsilon-lab/). I have been part of mainly two different projects: (i) Fairness-AwareGroup Recommendations; (ii) Conversational Health in Social Media Platforms. 
 
