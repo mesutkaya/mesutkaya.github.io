@@ -8,7 +8,7 @@ profile:
   align: right
   image: mk.jpeg
   address: >
-    <p>Aalborg University Copenhagen</p>
+    <p>Aalborg University</p>
     <p>Copenhagen</p>
     <p>Denmark</p>
 
