@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: mk.jpeg
+  image: mk.jpg
   address: >
     <p>Aalborg University</p>
     <p>Copenhagen</p>
