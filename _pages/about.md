@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Mesut Kaya. You have reached my personal website. I am Postdoctoral Researcher at Aalborg University Copenhagen. You can contact me if you like. 
+Welcome! I am Mesut Kaya. You have reached my personal website. I am Postdoctoral Researcher at Aalborg University Copenhagen. I am part of [JobMatch project](https://www.jobindex.dk/cms/jobmatch?lang=en). 
 
-Previously, I was a Postdoc/Research Engineer at TU Delft, Delft Data Science, Web Information Systems, [Epsilon group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/web-information-systems/projects/epsilon-lab/). I have been part of mainly two different projects: (i) Fairness-AwareGroup Recommendations; (ii) Conversational Health in Social Media Platforms. 
+Previously, I was a Postdoc/Research Engineer at TU Delft, Delft Data Science, Web Information Systems, [Epsilon group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/web-information-systems/projects/epsilon-lab/). I have been part of mainly two different projects: (i) Fairness-Aware Group Recommendations; (ii) Conversational Health in Social Media Platforms. 
 
 I have obtained my PhD degree from [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Cork, Ireland, under the supervision of [Dr. Derek Bridge](http://www.cs.ucc.ie/~dgb/). During my PhD study, my research focused on the design, analysis, implementation, and experimental evaluation of diversity-aware personalized recommender algorithms. An assumption of very early work on recommender systems was that the goal of such systems was to accurately predict the users’ opinions of candidate items, and to use these predictions to select items to recommend. It was soon recognized that it is not enough for predictions to be accurate or recommendations to be merely relevant. In many domains, recommendations must not only be accurate or relevant,but they should also be novel to the user or serendipitous, and a set of recommendations must be diverse. In my PhD thesis, I focused on diversity.
 
