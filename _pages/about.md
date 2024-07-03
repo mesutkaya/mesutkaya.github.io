@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Mesut Kaya. You have reached my personal website. I am Postdoctoral Researcher at Aalborg University Copenhagen. I am part of [JobMatch project](https://www.jobindex.dk/cms/jobmatch?lang=en). 
+Welcome! I am Mesut Kaya. You have reached my personal website. I am Postdoctoral Researcher at Jobindex A/S and IT University Copenhagen. I am part of [JobMatch project](https://www.jobindex.dk/cms/jobmatch?lang=en). 
 
 Previously, I was a Postdoc/Research Engineer at TU Delft, Delft Data Science, Web Information Systems, [Epsilon group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/web-information-systems/projects/epsilon-lab/). I have been part of mainly two different projects: (i) Fairness-Aware Group Recommendations; (ii) Conversational Health in Social Media Platforms. 
 
